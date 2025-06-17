@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.tgz
+
+# Mac OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional runtime files
+*.ogg
+*.mp3
+*.pdf
+
+# VSCode settings
+.vscode/
+
+# By feature
+/.history/
+/coverage/
+/tmp/
